@@ -1,0 +1,32 @@
+{
+  "name": "butter-provider-haruhichan",
+  "version": "0.1.0",
+  "description": "A Butter provider for HARUHICHAN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/butterproviders/butter-provider-haruhichan.git"
+  },
+  "keywords": [
+    "haruhichan",
+    "butter",
+    "streaming"
+  ],
+  "author": "Random Hacker",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/butterproviders/butter-provider-haruhichan/issues"
+  },
+  "homepage": "https://github.com/butterproviders/butter-provider-haruhichan#readme",
+  "dependencies": {
+    "butter-provider": "^0.1.0",
+    "butter-sanitize": "^0.1.0",
+    "lodash": "^3.10.1",
+    "q": "^1.4.1",
+    "request": "^2.67.0",
+    "sanitizer": "^0.1.3"
+  }
+}
